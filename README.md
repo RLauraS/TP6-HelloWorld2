@@ -2,10 +2,9 @@
 
 Trabajo práctico de REACT
 
-Enunciado de ejercicio n°1:
+Enunciado de ejercicio n°2:
 
-Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”.
-
+Modificar el componente anterior y enviar mediante props el valor “My friend” de manera que el mensaje quede de la siguiente forma:
 
 ## Librerias/Herramientas 🛠
 - [Developer Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
