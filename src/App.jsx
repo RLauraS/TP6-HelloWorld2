@@ -1,11 +1,11 @@
 import './App.css'
-
-function App() {
-
+import Saludos from './components/Saludos'
+const App = () => {
   return (
-    <>
-    </>
-  )
-}
+    <div>
+      <Saludos amigo="My friend"/>
+    </div>
+  );
+};
 
-export default App
+export default App;
